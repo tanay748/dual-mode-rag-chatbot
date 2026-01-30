@@ -1,0 +1,7 @@
+sentence-transformers
+pypdf
+faiss-cpu
+langchain
+langchain-community
+langchain-ollama
+gradio
